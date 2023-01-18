@@ -1,2 +1,2 @@
 # SimonGame
-I developed a website for playing simon game.
+This is a website for playing simon game.
